@@ -1,8 +1,8 @@
 import React from "react"
 import "../assets/css/app.css";
-import TopBar from "./topBar"
-import ContentRowTop from "./contentRowTop"
-import Footer from "./footer"
+import TopBar from "./TopBar"
+import ContentRowTop from "./ContentRowTop"
+import Footer from "./Footer"
 
 function ContentWrapper(){
     return (
