@@ -1,5 +1,5 @@
 import React from 'react';
-
+import "../assets/css/app.css";
 import Walke from "../assets/images/jordan-walke.png";
 function Topbar(){
     return (

@@ -1,5 +1,5 @@
 import React from 'react';
-
+import "../assets/css/app.css";
 import logo from "../assets/images/logo-DH.png";
 function Sidebar(){
     return (

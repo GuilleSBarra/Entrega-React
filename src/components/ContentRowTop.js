@@ -1,5 +1,5 @@
 import React from 'react';
-
+import "../assets/css/app.css";
 import mando from "../assets/images/mandalorian.jpg";
 
 

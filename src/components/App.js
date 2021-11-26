@@ -1,6 +1,6 @@
 
 
-import './App.css';
+import  "../assets/css/app.css";
 import Sidebar from './components/sideBar';
 import ContentWrapper from './components/contentWrapper';
 
